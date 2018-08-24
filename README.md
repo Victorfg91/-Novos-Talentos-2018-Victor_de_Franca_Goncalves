@@ -16,6 +16,6 @@
    Fixa: Possui as mesmas propriedades do Absolut porem torna o elemento fixo na página enquanto voce realiza a navegação no site ( scroll    up / scroll down). 
    Absoluta: Posiciona o elemento selecionado tomando como referência o bloco html.
    Estática: Mantem o posicionamento padrão do elemento, o colocando na ordem que foi inserido no html.  
-9).call: invoca uma função utilizando o argumento this referenciando algum objeto e depois passa parametro por parametro da função.
-  .apply: invoca uma função utilizando o argumento this referenciando algum objeto e depois utiliza um array para passar todos os             parametros da função.
+9) call: invoca uma função utilizando o argumento this referenciando algum objeto e depois passa parametro por parametro da função.
+   apply: invoca uma função utilizando o argumento this referenciando algum objeto e depois utiliza um array para passar todos os             parametros da função.
 10) O operador == compara se os valores são iguais, já o operador === compara se os valores e o tipo da variel são iguais. 
